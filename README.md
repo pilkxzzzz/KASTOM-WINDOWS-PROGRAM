@@ -30,8 +30,8 @@ A powerful and user-friendly Python application for customizing Windows appearan
 1. Ensure you have Python 3.8 or higher installed
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/windows-customizer.git
-cd windows-customizer
+git clone https://github.com/yourusername/KASTOM-WINDOWS-PROGRAM.git
+cd KASTOM-WINDOWS-PROGRAM
 ```
 
 3. Install required dependencies:
